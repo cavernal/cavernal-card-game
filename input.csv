@@ -1,0 +1,103 @@
+count,back icon,back number,back text,front picture/name,icon,coin value,Action,Action text,power,card type,action type,special (artifacts)
+1,icon_character.png,,Character,c_male_miner.png,icon_character.png,0,nothing.png,,,icon_character.png,,
+1,icon_character.png,,Character,c_male_tycoon.png,icon_character.png,5,nothing.png,,,icon_character.png,,
+1,icon_character.png,,Character,c_male_rogue.png,icon_character.png,0,icon_treasure.png,1,,icon_character.png,icon_treasure.png1,
+1,icon_character.png,,Character,c_female_soldier.png,icon_character.png,0,icon_treasure.png,1,,icon_character.png,icon_treasure.png1,
+1,icon_character.png,,Character,c_male_warrior.png,icon_character.png,0,icon_treasure.png,2,,icon_character.png,icon_treasure.png2,
+1,icon_character.png,,Character,c_female_warlock.png,icon_character.png,0,icon_treasure.png,2,,icon_character.png,icon_treasure.png2,
+,,,,,,,,,,,,
+1,icon_treasure.png,4,Treasure 4,i_sacred_amulet.png,icon_sacred_artifact.png,2,nothing.png,,7,icon_treasure.png4,,On top of any other equipment
+1,icon_treasure.png,4,Treasure 4,i_sacred_watch.png,icon_sacred_artifact.png,2,nothing.png,,,icon_treasure.png4,,"Can skip turns, not attacking monsters"
+1,icon_treasure.png,4,Treasure 4,i_sacred_goggles.png,icon_sacred_artifact.png,2,nothing.png,,,icon_treasure.png4,,"When picking any card, can look at the two next and pick the one preferred"
+1,icon_treasure.png,4,Treasure 4,i_sacred_box.png,icon_sacred_artifact.png,2,nothing.png,,,icon_treasure.png4,,"When player only has a life, attack +20"
+1,icon_treasure.png,4,Treasure 4,i_sacred_stone_tablet.png,icon_sacred_artifact.png,2,nothing.png,,,icon_treasure.png4,,Can rethrow a single dice once after each dice throw
+1,icon_treasure.png,4,Treasure 4,i_sacred_stone_tablet_ultimate.png,icon_sacred_artifact.png,2,nothing.png,,,icon_treasure.png4,,Can rethrow the two dice once after each dice throw
+1,icon_treasure.png,4,Treasure 4,i_sacred_statue.png,icon_sacred_artifact.png,5,nothing.png,,,icon_treasure.png4,,"When having this artifact and three curses, no curses can have an effect, other artifacts have double the effect (consider effect as applied sequentially)"
+,,,,,,,,,,,,
+1,icon_treasure.png,4,Treasure 4,i_damned_armor.png,icon_damned_relic.png,0,nothing.png,,,icon_treasure.png4,,"Takes the place of the armor, can't equip any armor anymore"
+1,icon_treasure.png,4,Treasure 4,i_damned_helmet.png,icon_damned_relic.png,0,nothing.png,,,icon_treasure.png4,,"Takes the place of the helmet, can't equip any helmet anymore"
+1,icon_treasure.png,4,Treasure 4,i_damned_chalice.png,icon_damned_relic.png,0,nothing.png,,,icon_treasure.png4,,Will never heal after winning a combat. Only with potions.
+1,icon_treasure.png,4,Treasure 4,i_damned_watch.png,icon_damned_relic.png,0,nothing.png,,,icon_treasure.png4,,"When losing a combat, if the monster is still alive, must continue fighting it in the following turns"
+1,icon_treasure.png,4,Treasure 4,i_damned_book.png,icon_damned_relic.png,0,nothing.png,,,icon_treasure.png4,,Only cursed artifacts have an effect.
+1,icon_treasure.png,4,Treasure 4,i_damned_doll.png,icon_damned_relic.png,0,nothing.png,,,icon_treasure.png4,,"When having this and 2 other cursed artifacts, dies and loses the match"
+1,icon_treasure.png,4,Treasure 4,i_damned_vortex.png,icon_damned_relic.png,0,nothing.png,,,icon_treasure.png4,,"After every turn, this player must discard a card with coin value, even if eventually involves discarding equipped items"
+,,,,,,,,,,,,
+3,icon_treasure.png,2,Treasure 2,i_potion_time.png,icon_potion.png,0,nothing.png,,,icon_treasure.png2,,"Can skip a turn, not attacking any monster (single use)"
+2,icon_treasure.png,2,Treasure 2,i_potion_health.png,icon_potion.png,0,nothing.png,,,icon_treasure.png2,,Heals all health points (single use)
+1,icon_treasure.png,3,Treasure 3,i_potion_poison.png,icon_potion.png,0,nothing.png,,,icon_treasure.png3,,The player loses health points and is left with only one (single use)
+,,,,,,,,,,,,
+4,icon_treasure.png,1,Treasure 1,i_scroll_magic_missile.png,icon_scroll.png,0,nothing.png,,1,icon_treasure.png1,,(single use)
+2,icon_treasure.png,2,Treasure 2,i_scroll_lightning.png,icon_scroll.png,0,nothing.png,,4,icon_treasure.png2,,(single use)
+1,icon_treasure.png,3,Treasure 3,i_scroll_sudden_death.png,icon_scroll.png,0,nothing.png,,10,icon_treasure.png3,,(single use)
+,,,,,,,,,,,,
+8,icon_treasure.png,1,Treasure 1,t_treasure2.png,icon_treasure.png,1,nothing.png,,,icon_treasure.png1,icon_treasure.png2,
+8,icon_treasure.png,2,Treasure 2,t_treasure3.png,icon_treasure.png,1,nothing.png,,,icon_treasure.png2,icon_treasure.png3,
+8,icon_treasure.png,3,Treasure 3,t_treasure4.png,icon_treasure.png,1,nothing.png,,,icon_treasure.png3,icon_treasure.png4,
+,,,,,,,,,,,,
+2,icon_monster.png,1,Monster 1,m1_soldier1.png,icon_monster.png,0,nothing.png,,2,icon_monster.png1,,
+2,icon_monster.png,1,Monster 1,m1_soldier1_b.png,icon_monster.png,0,nothing.png,,4,icon_monster.png1,,
+2,icon_monster.png,1,Monster 1,m1_soldier1_c.png,icon_monster.png,0,icon_treasure.png,1,6,icon_monster.png1,icon_treasure.png1,
+2,icon_monster.png,1,Monster 1,m1_soldier1_d.png,icon_monster.png,0,icon_treasure.png,1,7,icon_monster.png1,icon_treasure.png1,
+1,icon_monster.png,1,Monster 1,m1_soldier2.png,icon_monster.png,0,icon_treasure.png,1,8,icon_monster.png1,icon_treasure.png1,
+1,icon_monster.png,1,Monster 1,m1_soldier2_b.png,icon_monster.png,0,icon_treasure.png,1,9,icon_monster.png1,icon_treasure.png1,
+1,icon_monster.png,1,Monster 1,m1_soldier2_c.png,icon_monster.png,0,icon_treasure.png,1,10,icon_monster.png1,icon_treasure.png1,
+1,icon_monster.png,1,Monster 1,m1_soldier2_d.png,icon_monster.png,0,icon_treasure.png,1,12,icon_monster.png1,icon_treasure.png1,
+1,icon_monster.png,1,Monster 1,m1_soldier3.png,icon_monster.png,0,icon_treasure.png,2,15,icon_monster.png1,icon_treasure.png2,
+1,icon_monster.png,1,Monster 1,m1_soldier3_b.png,icon_monster.png,0,icon_treasure.png,3,20,icon_monster.png1,icon_treasure.png3,
+,,,,,,,,,,,,
+2,icon_monster.png,2,Monster 2,m2_mage1.png,icon_monster.png,0,nothing.png,,10,icon_monster.png2,,
+2,icon_monster.png,2,Monster 2,m2_mage1_b.png,icon_monster.png,0,nothing.png,,12,icon_monster.png2,,
+2,icon_monster.png,2,Monster 2,m2_mage1_c.png,icon_monster.png,0,icon_treasure.png,1,14,icon_monster.png2,icon_treasure.png1,
+1,icon_monster.png,2,Monster 2,m2_mage2.png,icon_monster.png,0,icon_treasure.png,1,15,icon_monster.png2,icon_treasure.png1,
+1,icon_monster.png,2,Monster 2,m2_mage2_b.png,icon_monster.png,0,icon_treasure.png,2,17,icon_monster.png2,icon_treasure.png2,
+1,icon_monster.png,2,Monster 2,m2_mage2_c.png,icon_monster.png,0,icon_treasure.png,2,19,icon_monster.png2,icon_treasure.png2,
+1,icon_monster.png,2,Monster 2,m2_mage2_d.png,icon_monster.png,0,icon_treasure.png,2,21,icon_monster.png2,icon_treasure.png2,
+1,icon_monster.png,2,Monster 2,m2_mage3.png,icon_monster.png,0,icon_treasure.png,3,22,icon_monster.png2,icon_treasure.png3,
+1,icon_monster.png,2,Monster 2,m2_mage3_b.png,icon_monster.png,0,icon_treasure.png,3,28,icon_monster.png2,icon_treasure.png3,
+1,icon_monster.png,2,Monster 2,m2_mage3_c.png,icon_monster.png,0,icon_treasure.png,4,32,icon_monster.png2,icon_treasure.png4,
+,,,,,,,,,,,,
+2,icon_monster.png,3,Monster 3,m3_warlock1.png,icon_monster.png,0,nothing.png,,15,icon_monster.png3,,
+2,icon_monster.png,3,Monster 3,m3_warlock1_b.png,icon_monster.png,0,nothing.png,,17,icon_monster.png3,,
+2,icon_monster.png,3,Monster 3,m3_warlock1_c.png,icon_monster.png,0,icon_treasure.png,1,22,icon_monster.png3,icon_treasure.png1,
+1,icon_monster.png,3,Monster 3,m3_warlock2.png,icon_monster.png,0,icon_treasure.png,2,23,icon_monster.png3,icon_treasure.png2,
+1,icon_monster.png,3,Monster 3,m3_warlock2_b.png,icon_monster.png,0,icon_treasure.png,3,25,icon_monster.png3,icon_treasure.png3,
+1,icon_monster.png,3,Monster 3,m3_warlock2_c.png,icon_monster.png,0,icon_treasure.png,3,26,icon_monster.png3,icon_treasure.png3,
+1,icon_monster.png,3,Monster 3,m3_warlock2_d.png,icon_monster.png,0,icon_treasure.png,3,29,icon_monster.png3,icon_treasure.png3,
+1,icon_monster.png,3,Monster 3,m3_warlock2_e.png,icon_monster.png,0,icon_treasure.png,3,33,icon_monster.png3,icon_treasure.png3,
+1,icon_monster.png,3,Monster 3,m3_warlock3.png,icon_monster.png,0,icon_treasure.png,4,35,icon_monster.png3,icon_treasure.png4,
+1,icon_monster.png,3,Monster 3,m3_warlock3_b.png,icon_monster.png,0,icon_treasure.png,4,40,icon_monster.png3,icon_treasure.png4,
+,,,,,,,,,,,,
+1,icon_monster.png,4,Monster 4,m4_final.png,icon_monster.png,5,nothing.png,,50,icon_monster.png4,,
+,,,,,,,,,,,,24
+1,icon_treasure.png,1,Treasure 1,i_shield1.png,icon_shield.png,0,nothing.png,,3,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_shield1_b.png,icon_shield.png,0,nothing.png,,5,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_shield1_c.png,icon_shield.png,0,nothing.png,,6,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_armor1.png,icon_armor.png,0,nothing.png,,4,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_armor1_b.png,icon_armor.png,0,nothing.png,,7,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_sword1.png,icon_weapon.png,0,nothing.png,,3,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_sword1_b.png,icon_weapon.png,0,nothing.png,,5,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_sword1_c.png,icon_weapon.png,0,nothing.png,,7,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_helmet1.png,icon_helmet.png,0,nothing.png,,2,icon_treasure.png1,,
+1,icon_treasure.png,1,Treasure 1,i_helmet1_b.png,icon_helmet.png,0,nothing.png,,4,icon_treasure.png1,,
+,,,,,,,,,,,,
+1,icon_treasure.png,2,Treasure 2,i_shield2.png,icon_shield.png,0,nothing.png,,6,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_shield2_b.png,icon_shield.png,0,nothing.png,,8,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_shield2_c.png,icon_shield.png,0,nothing.png,,9,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_armor2.png,icon_armor.png,0,nothing.png,,8,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_armor2_b.png,icon_armor.png,0,nothing.png,,11,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_sword2.png,icon_weapon.png,0,nothing.png,,8,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_sword2_b.png,icon_weapon.png,0,nothing.png,,9,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_sword2_c.png,icon_weapon.png,0,nothing.png,,10,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_helmet2.png,icon_helmet.png,0,nothing.png,,6,icon_treasure.png2,,
+1,icon_treasure.png,2,Treasure 2,i_helmet2_b.png,icon_helmet.png,0,nothing.png,,8,icon_treasure.png2,,
+,,,,,,,,,,,,
+1,icon_treasure.png,3,Treasure 3,i_shield3.png,icon_shield.png,0,nothing.png,,10,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_shield3_2.png,icon_shield.png,0,nothing.png,,12,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_shield3_3.png,icon_shield.png,0,nothing.png,,14,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_armor3.png,icon_armor.png,0,nothing.png,,12,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_armor3_2.png,icon_armor.png,0,nothing.png,,15,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_sword3.png,icon_weapon.png,0,nothing.png,,12,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_sword3_2.png,icon_weapon.png,0,nothing.png,,16,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_sword3_3.png,icon_weapon.png,0,nothing.png,,20,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_helmet3.png,icon_helmet.png,0,nothing.png,,10,icon_treasure.png3,,
+1,icon_treasure.png,3,Treasure 3,i_helmet3_2.png,icon_helmet.png,0,nothing.png,,12,icon_treasure.png3,,

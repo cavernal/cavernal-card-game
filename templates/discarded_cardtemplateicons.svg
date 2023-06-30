@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.60083mm"
+   height="77.952003mm"
+   viewBox="0 0 55.60083 77.952003"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="cardtemplate.svg"
+   inkscape:export-xdpi="651.16803"
+   inkscape:export-ydpi="651.16803">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1020">
+      <stop
+         style="stop-color:#fdf79d;stop-opacity:1"
+         offset="0"
+         id="stop1016" />
+      <stop
+         style="stop-color:#d56e02;stop-opacity:1"
+         offset="1"
+         id="stop1018" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="radialGradient1022"
+       cx="20.631383"
+       cy="12.657227"
+       fx="20.631383"
+       fy="12.657227"
+       r="4.0970186"
+       gradientTransform="matrix(1,0,0,0.43625836,0,7.1354058)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="radialGradient1030"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.43625836,0,7.1354058)"
+       cx="20.631383"
+       cy="12.657227"
+       fx="20.631383"
+       fy="12.657227"
+       r="4.0970186" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="radialGradient1030-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.43625836,-0.07638736,14.277473)"
+       cx="20.631384"
+       cy="12.657227"
+       fx="20.631384"
+       fy="12.657227"
+       r="4.0970187" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="radialGradient1052"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.43625836,0,7.1354058)"
+       cx="20.631384"
+       cy="12.657227"
+       fx="20.631384"
+       fy="12.657227"
+       r="4.0970187" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="radialGradient879"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.43625836,0,7.1354058)"
+       cx="20.631384"
+       cy="12.657227"
+       fx="20.631384"
+       fy="12.657227"
+       r="4.0970187" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="radialGradient1098-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5040244,-0.00564558,0.00458656,1.2218925,18.212,-1.8796174)"
+       cx="17.673386"
+       cy="12.357308"
+       fx="17.673386"
+       fy="12.357308"
+       r="4.0970187" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="radialGradient894"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.43625836,0,7.1354058)"
+       cx="20.631384"
+       cy="12.657227"
+       fx="20.631384"
+       fy="12.657227"
+       r="4.0970187" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1020"
+       id="radialGradient964"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.43625836,2.6458338,8.2126604)"
+       cx="20.631383"
+       cy="12.657227"
+       fx="20.631383"
+       fy="12.657227"
+       r="4.0970186" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.6554888"
+     inkscape:cx="55.619295"
+     inkscape:cy="145.38446"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1937"
+     inkscape:window-height="1285"
+     inkscape:window-x="36"
+     inkscape:window-y="113"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       sodipodi:absref="t_front.png"
+       xlink:href="t_front.png"
+       y="-0.23141098"
+       x="-11.039913"
+       id="image965"
+       preserveAspectRatio="none"
+       height="78.414825"
+       width="77.680656" />
+    <g
+       id="g1077"
+       transform="matrix(0.99938628,0,0,0.99938628,0.60721639,57.374788)">
+      <image
+         sodipodi:absref="t_coin_5.png"
+         xlink:href="t_coin_5.png"
+         y="7.710619"
+         x="29.431248"
+         id="image915-6-5-3-5"
+         preserveAspectRatio="none"
+         height="6.5039916"
+         width="6.5039916" />
+      <image
+         sodipodi:absref="t_coin_4.png"
+         xlink:href="t_coin_4.png"
+         width="6.5039916"
+         height="6.5039916"
+         preserveAspectRatio="none"
+         id="image915-6-5-3"
+         x="32.977322"
+         y="7.710619" />
+      <image
+         sodipodi:absref="t_coin_3.png"
+         xlink:href="t_coin_3.png"
+         y="7.710619"
+         x="36.523403"
+         id="image915-6-5"
+         preserveAspectRatio="none"
+         height="6.5039916"
+         width="6.5039916" />
+      <image
+         sodipodi:absref="t_coin_2.png"
+         xlink:href="t_coin_2.png"
+         y="7.710619"
+         x="40.069477"
+         id="image915-6"
+         preserveAspectRatio="none"
+         height="6.5039916"
+         width="6.5039916" />
+      <image
+         sodipodi:absref="t_coin_1.png"
+         xlink:href="t_coin_1.png"
+         width="6.5039916"
+         height="6.5039916"
+         preserveAspectRatio="none"
+         id="image915"
+         x="43.615551"
+         y="7.710619" />
+    </g>
+    <image
+       sodipodi:absref="t_icon.png"
+       xlink:href="t_icon.png"
+       width="13"
+       height="13"
+       preserveAspectRatio="none"
+       id="image915-6-5-3-5-6"
+       x="4.9048324"
+       y="6.3713322" />
+    <image
+       sodipodi:absref="t_action.png"
+       xlink:href="t_action.png"
+       y="6.3713322"
+       x="37.695999"
+       id="image915-6-5-3-5-6-2"
+       preserveAspectRatio="none"
+       height="13"
+       width="13" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98737px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';letter-spacing:0px;word-spacing:0px;fill:url(#radialGradient964);fill-opacity:1;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="19.129782"
+       y="15.495656"
+       id="text872"><tspan
+         sodipodi:role="line"
+         x="19.129782"
+         y="15.495656"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';fill:url(#radialGradient964);fill-opacity:1;stroke:#000000;stroke-width:0.21;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan870">4z1z9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.50118px;line-height:1.25;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';letter-spacing:0px;word-spacing:0px;fill:url(#radialGradient1098-5);fill-opacity:1;stroke:#000000;stroke-width:0.232682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="44.276119"
+       y="15.965568"
+       id="text872-2"><tspan
+         sodipodi:role="line"
+         x="44.276119"
+         y="15.965568"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan';text-align:center;text-anchor:middle;fill:url(#radialGradient1098-5);fill-opacity:1;stroke:#000000;stroke-width:0.232682;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan870-7">4z1z8</tspan></text>
+  </g>
+  <g
+     id="g1103"
+     inkscape:label="HELPER"
+     style="display:none">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ea00fd;stroke-width:0.10464;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect833"
+       width="49.895359"
+       height="69.895363"
+       x="2.8527355"
+       y="4.0283203" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ea00fd;stroke-width:0.096843;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect833-3"
+       width="45.624371"
+       height="65.471596"
+       x="4.9882307"
+       y="6.2402067" />
+  </g>
+</svg>

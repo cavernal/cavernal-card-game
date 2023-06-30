@@ -1,7 +1,10 @@
 # Cavernal Card Game
 Cavernal Card Game - www.cavernal.com / https://github.com/cavernal
+
 Copyright (c) 2023, Luis Quesada Torres - https://github.com/lquesada | www.luisquesada.com
+
 Inspired by my videogame [Cavernal](https://cavernal.github.io/cavernal/).
+
 You are free to use this project for personal purposes or to modify it as long as:
 - You link to this site
 - You give credit to me.

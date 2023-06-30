@@ -10,7 +10,7 @@ You are free to use this project for personal purposes or to modify it as long a
 - You don't make money out of it.
 - You do not offer a more flexible license than me (i.e. any modifications by third parties must still link to this site and give me credit).
 
-English
+Download in English (it's free!)
 -------
 
 Download the instructions [here](https://github.com/cavernal/cavernal-card-game/releases/download/cavernal1.0/Cavernal.instructions.pdf)
@@ -20,8 +20,10 @@ Download the sheets to prints the cards here:
 - [.ZIP, 64x 9x13 photo prints (2 cards each)](https://github.com/cavernal/cavernal-card-game/releases/download/cavernal1.0/printpairs9x13.zip), 68MB*
 
 * if you select this option, you need to manually write the type of each card in the back.
-  
-Spanish
+
+*There's [this video](https://youtu.be/Yt9dds2dKA8) showing how to play, in Spanish though, so check the instructions above*
+
+Descargar en Español (es gratis!)
 -------
 
 Descarga las instrucciones [aquí](https://github.com/cavernal/cavernal-card-game/releases/download/cavernal1.0/Instrucciones.de.Cavernal.pdf)
@@ -32,4 +34,4 @@ Descarga las plantillas para imprimir las cartas aquí:
 
 * si seleccionas esta opción, tienes que escribir manualmente el tipo de cada carta por detrás.
 
-Video explicativo en español [aquí]()
+*Video explicativo en español [aquí](https://youtu.be/Yt9dds2dKA8)*
